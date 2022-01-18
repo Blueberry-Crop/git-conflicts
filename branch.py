@@ -1,2 +1,3 @@
 name = 'branch'
-print('branch: ' + name)
+
+print(name + ' branch')

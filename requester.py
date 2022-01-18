@@ -1,2 +1,2 @@
-name = 'Requester'
+name = 'REQUESTER'
 print(name)
